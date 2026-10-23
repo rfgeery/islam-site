@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rfgeery.github.io/islam-site/sitemap.xml
